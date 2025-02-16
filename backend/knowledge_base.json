@@ -1,0 +1,366 @@
+[
+    {
+        "question": "What is your warranty policy?",
+        "answer": "Our products come with a 1-year limited warranty covering manufacturing defects."
+    },
+    {
+        "question": "Can I cancel my order after placing it?",
+        "answer": "Yes, you can cancel your order within 24 hours of placing it, provided it has not been shipped."
+    },
+    {
+        "question": "How do I update my shipping address?",
+        "answer": "You can update your shipping address by logging into your account and editing the address in the 'Profile' section."
+    },
+    {
+        "question": "Do you offer gift wrapping?",
+        "answer": "Yes, we offer gift wrapping for an additional fee. You can select this option during checkout."
+    },
+    {
+        "question": "What should I do if I receive a damaged product?",
+        "answer": "Please contact our support team with photos of the damaged product, and we will arrange a replacement or refund."
+    },
+    {
+        "question": "How do I apply a discount code?",
+        "answer": "You can enter your discount code during checkout in the 'Promo Code' field."
+    },
+    {
+        "question": "Do you offer student discounts?",
+        "answer": "Yes, we offer a 10% student discount. Please verify your student status through our partner verification service."
+    },
+    {
+        "question": "What is your privacy policy?",
+        "answer": "Our privacy policy ensures that your personal information is protected and not shared with third parties without your consent."
+    },
+    {
+        "question": "How do I reset my password?",
+        "answer": "You can reset your password by clicking 'Forgot Password' on the login page and following the instructions."
+    },
+    {
+        "question": "Can I change my order after it has been placed?",
+        "answer": "Once an order is placed, changes cannot be made. You may cancel the order and place a new one if it hasn't shipped."
+    },
+    {
+        "question": "Do you offer same-day delivery?",
+        "answer": "Yes, we offer same-day delivery in select locations. Check availability during checkout."
+    },
+    {
+        "question": "What is your customer support hours?",
+        "answer": "Our customer support team is available from 9 AM to 9 PM, Monday to Friday."
+    },
+    {
+        "question": "How do I check the status of my refund?",
+        "answer": "You can check the status of your refund by logging into your account and visiting the 'Refunds' section."
+    },
+    {
+        "question": "Do you sell gift cards?",
+        "answer": "Yes, we offer digital and physical gift cards in various denominations."
+    },
+    {
+        "question": "How do I redeem a gift card?",
+        "answer": "You can redeem your gift card by entering the code during checkout in the 'Gift Card' field."
+    },
+    {
+        "question": "What is your exchange policy?",
+        "answer": "We allow exchanges within 14 days of delivery, provided the product is unused and in its original packaging."
+    },
+    {
+        "question": "Do you offer free shipping?",
+        "answer": "Yes, we offer free shipping on orders over $50."
+    },
+    {
+        "question": "How do I unsubscribe from your newsletter?",
+        "answer": "You can unsubscribe by clicking the 'Unsubscribe' link at the bottom of any newsletter email."
+    },
+    {
+        "question": "Can I return a product without the original packaging?",
+        "answer": "No, the product must be returned in its original packaging for a refund or exchange."
+    },
+    {
+        "question": "How do I check my order history?",
+        "answer": "You can view your order history by logging into your account and visiting the 'Order History' section."
+    },
+    {
+        "question": "Do you offer bulk discounts?",
+        "answer": "Yes, we offer bulk discounts for orders over 50 units. Contact our sales team for more details."
+    },
+    {
+        "question": "What is your shipping carrier?",
+        "answer": "We use multiple carriers, including FedEx, UPS, and USPS, depending on the destination."
+    },
+    {
+        "question": "How do I contact the seller?",
+        "answer": "You can contact the seller through the 'Contact Seller' option on the product page."
+    },
+    {
+        "question": "Do you offer a loyalty program?",
+        "answer": "Yes, we have a loyalty program where you earn points for every purchase. Points can be redeemed for discounts."
+    },
+    {
+        "question": "How do I check my loyalty points?",
+        "answer": "You can check your loyalty points by logging into your account and visiting the 'Loyalty Program' section."
+    },
+    {
+        "question": "What is your price match policy?",
+        "answer": "We offer price matching within 7 days of purchase. Contact our support team with proof of a lower price."
+    },
+    {
+        "question": "Do you offer installation services?",
+        "answer": "Yes, we offer installation services for select products. Check availability during checkout."
+    },
+    {
+        "question": "How do I request an invoice?",
+        "answer": "You can download your invoice by logging into your account and visiting the 'Order Details' section."
+    },
+    {
+        "question": "Do you offer trade-in options?",
+        "answer": "Yes, we offer trade-in options for select products. Visit our Trade-In page for more details."
+    },
+    {
+        "question": "How do I check my gift card balance?",
+        "answer": "You can check your gift card balance by logging into your account and visiting the 'Gift Cards' section."
+    },
+    {
+        "question": "What is your product recall policy?",
+        "answer": "In the event of a product recall, we will notify affected customers and provide instructions for returns or replacements."
+    },
+    {
+        "question": "Do you offer a warranty extension?",
+        "answer": "Yes, you can purchase a warranty extension for select products. Visit the product page for details."
+    },
+    {
+        "question": "How do I report a missing item from my order?",
+        "answer": "Please contact our support team with your order number, and we will investigate the issue."
+    },
+    {
+        "question": "Do you offer a satisfaction guarantee?",
+        "answer": "Yes, we offer a 30-day satisfaction guarantee. If you're not happy with your purchase, you can return it for a full refund."
+    },
+    {
+        "question": "How do I change my email preferences?",
+        "answer": "You can update your email preferences by logging into your account and visiting the 'Email Settings' section."
+    },
+    {
+        "question": "Do you offer financing options?",
+        "answer": "Yes, we offer financing options through our partner providers. Check availability during checkout."
+    },
+    {
+        "question": "How do I check the availability of a product?",
+        "answer": "Product availability is shown on the product page. You can also sign up for restock notifications."
+    },
+    {
+        "question": "Do you offer a military discount?",
+        "answer": "Yes, we offer a 15% military discount. Please verify your status through our partner verification service."
+    },
+    {
+        "question": "How do I track a refund to my credit card?",
+        "answer": "Refunds typically take 5-7 business days to process. Contact your bank for more details."
+    },
+    {
+        "question": "Do you offer a senior citizen discount?",
+        "answer": "Yes, we offer a 10% discount for senior citizens. Please verify your age during checkout."
+    },
+    {
+        "question": "How do I check the estimated delivery date?",
+        "answer": "The estimated delivery date is shown during checkout and in your order confirmation email."
+    },
+    {
+        "question": "Do you offer a price adjustment if the price drops after I purchase?",
+        "answer": "Yes, we offer price adjustments within 7 days of purchase. Contact our support team for assistance."
+    },
+    {
+        "question": "How do I request a product demo?",
+        "answer": "You can request a product demo by contacting our sales team at sales@example.com."
+    },
+    {
+        "question": "Do you offer a recycling program?",
+        "answer": "Yes, we offer a recycling program for select products. Visit our Recycling page for more details."
+    },
+    {
+        "question": "How do I check the compatibility of a product?",
+        "answer": "Product compatibility information is available on the product page. Contact our support team if you need further assistance."
+    },
+    {
+        "question": "Do you offer a trial period?",
+        "answer": "Yes, we offer a 14-day trial period for select products. Check the product page for details."
+    },
+    {
+        "question": "How do I check the status of my exchange?",
+        "answer": "You can check the status of your exchange by logging into your account and visiting the 'Exchanges' section."
+    },
+    {
+        "question": "Do you offer a business account?",
+        "answer": "Yes, we offer business accounts with special pricing and benefits. Contact our sales team for more details."
+    },
+    {
+        "question": "How do I check the weight of a product?",
+        "answer": "Product weight is listed in the 'Specifications' section on the product page."
+    },
+    {
+        "question": "Do you offer a newsletter?",
+        "answer": "Yes, you can subscribe to our newsletter for exclusive offers and updates. Sign up on our homepage."
+    },
+    {
+        "question": "How do I check the dimensions of a product?",
+        "answer": "Product dimensions are listed in the 'Specifications' section on the product page."
+    },
+    {
+        "question": "Do you offer a referral program?",
+        "answer": "Yes, we offer a referral program where you earn rewards for referring friends. Visit the Referral Program page for details."
+    },
+    {
+        "question": "How do I check the battery life of a product?",
+        "answer": "Battery life information is listed in the 'Specifications' section on the product page."
+    },
+    {
+        "question": "Do you offer a trade-up program?",
+        "answer": "Yes, we offer a trade-up program for select products. Visit the Trade-Up page for more details."
+    },
+    {
+        "question": "How do I check the warranty status of a product?",
+        "answer": "You can check the warranty status by logging into your account and visiting the 'Warranty' section."
+    },
+    {
+        "question": "Do you offer a price lock guarantee?",
+        "answer": "Yes, we offer a price lock guarantee for select products. Contact our support team for details."
+    },
+    {
+        "question": "How do I check the return shipping cost?",
+        "answer": "Return shipping costs vary by location and product. Contact our support team for an estimate."
+    },
+    {
+        "question": "Do you offer a product registration program?",
+        "answer": "Yes, you can register your product to activate the warranty and receive updates. Visit the Product Registration page."
+    },
+    {
+        "question": "How do I check the compatibility of accessories?",
+        "answer": "Accessory compatibility information is available on the product page. Contact our support team if you need further assistance."
+    },
+    {
+        "question": "Do you offer a product demo in-store?",
+        "answer": "Yes, we offer in-store demos at select locations. Visit our Store Locator page to find a store near you."
+    },
+    {
+        "question": "How do I check the status of my loyalty rewards?",
+        "answer": "You can check your loyalty rewards by logging into your account and visiting the 'Loyalty Program' section."
+    },
+    {
+        "question": "Do you offer a product customization service?",
+        "answer": "Yes, we offer customization services for select products. Contact our sales team for more details."
+    },
+    {
+        "question": "How do I check the availability of a service?",
+        "answer": "Service availability is shown on the service page. Contact our support team for further assistance."
+    },
+    {
+        "question": "Do you offer a product repair service?",
+        "answer": "Yes, we offer repair services for select products. Visit the Repair Services page for more details."
+    },
+    {
+        "question": "How do I check the status of my repair request?",
+        "answer": "You can check the status of your repair request by logging into your account and visiting the 'Repairs' section."
+    },
+    {
+        "question": "Do you offer a product rental service?",
+        "answer": "Yes, we offer rental services for select products. Visit the Rental Services page for more details."
+    },
+    {
+        "question": "How do I check the status of my rental?",
+        "answer": "You can check the status of your rental by logging into your account and visiting the 'Rentals' section."
+    },
+    {
+        "question": "Do you offer a product trade-in program?",
+        "answer": "Yes, we offer a trade-in program for select products. Visit the Trade-In page for more details."
+    },
+    {
+        "question": "How do I check the status of my trade-in?",
+        "answer": "You can check the status of your trade-in by logging into your account and visiting the 'Trade-Ins' section."
+    },
+    {
+        "question": "Do you offer a product recycling program?",
+        "answer": "Yes, we offer a recycling program for select products. Visit the Recycling page for more details."
+    },
+    {
+        "question": "How do I check the status of my recycling request?",
+        "answer": "You can check the status of your recycling request by logging into your account and visiting the 'Recycling' section."
+    },
+    {
+        "question": "Do you offer a product donation program?",
+        "answer": "Yes, we offer a donation program for select products. Visit the Donation page for more details."
+    },
+    {
+        "question": "How do I check the status of my donation?",
+        "answer": "You can check the status of your donation by logging into your account and visiting the 'Donations' section."
+    },
+    {
+        "question": "Do you offer a product buyback program?",
+        "answer": "Yes, we offer a buyback program for select products. Visit the Buyback page for more details."
+    },
+    {
+        "question": "How do I check the status of my buyback?",
+        "answer": "You can check the status of your buyback by logging into your account and visiting the 'Buybacks' section."
+    },
+    {
+        "question": "Do you offer a product leasing program?",
+        "answer": "Yes, we offer leasing programs for select products. Visit the Leasing page for more details."
+    },
+    {
+        "question": "How do I check the status of my lease?",
+        "answer": "You can check the status of your lease by logging into your account and visiting the 'Leases' section."
+    },
+    {
+        "question": "Do you offer a product subscription service?",
+        "answer": "Yes, we offer subscription services for select products. Visit the Subscriptions page for more details."
+    },
+    {
+        "question": "How do I check the status of my subscription?",
+        "answer": "You can check the status of your subscription by logging into your account and visiting the 'Subscriptions' section."
+    },
+    {
+        "question": "Do you offer a product warranty extension?",
+        "answer": "Yes, you can purchase a warranty extension for select products. Visit the product page for details."
+    },
+    {
+        "question": "How do I check the status of my warranty extension?",
+        "answer": "You can check the status of your warranty extension by logging into your account and visiting the 'Warranty' section."
+    },
+    {
+        "question": "Do you offer a product insurance program?",
+        "answer": "Yes, we offer insurance programs for select products. Visit the Insurance page for more details."
+    },
+    {
+        "question": "How do I check the status of my insurance?",
+        "answer": "You can check the status of your insurance by logging into your account and visiting the 'Insurance' section."
+    },
+    {
+        "question": "Do you offer a product maintenance program?",
+        "answer": "Yes, we offer maintenance programs for select products. Visit the Maintenance page for more details."
+    },
+    {
+        "question": "How do I check the status of my maintenance request?",
+        "answer": "You can check the status of your maintenance request by logging into your account and visiting the 'Maintenance' section."
+    },
+    {
+        "question": "Do you offer a product upgrade program?",
+        "answer": "Yes, we offer upgrade programs for select products. Visit the Upgrades page for more details."
+    },
+    {
+        "question": "How do I check the status of my upgrade?",
+        "answer": "You can check the status of your upgrade by logging into your account and visiting the 'Upgrades' section."
+    },
+    {
+        "question": "Do you offer a product trade-up program?",
+        "answer": "Yes, we offer trade-up programs for select products. Visit the Trade-Up page for more details."
+    },
+    {
+        "question": "How do I check the status of my trade-up?",
+        "answer": "You can check the status of your trade-up by logging into your account and visiting the 'Trade-Ups' section."
+    },
+    {
+        "question": "Do you offer a product buyback program?",
+        "answer": "Yes, we offer buyback programs for select products. Visit the Buyback page for more details."
+    },
+    {
+        "question": "How do I check the status of my buyback?",
+        "answer": "You can check the status of your buyback by logging into your account and visiting the 'Buybacks' section."
+    }
+]
