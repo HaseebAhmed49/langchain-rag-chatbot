@@ -132,7 +132,7 @@ The knowledge base is stored in `backend/knowledge_base.json`. It contains a lis
 
 ---
 
-## 🚀 Contributing
+## 🚀 **Contributing**
 - Fork this repository
 - Submit a pull request with enhancements
 - Open issues for discussions
@@ -143,7 +143,7 @@ The knowledge base is stored in `backend/knowledge_base.json`. It contains a lis
 
 ---
 
-## 📞 Contact
+## 📞 **Contact**
 👤 **Haseeb Ahmed**  
 📍 **Location:** Greater London, UK  
 📧 **Email:** haseebahmed02@gmail.com  
